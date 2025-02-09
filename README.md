@@ -1,0 +1,2 @@
+# hugo-ontherocks
+Hugo theme
