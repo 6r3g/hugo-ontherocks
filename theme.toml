@@ -1,31 +1,21 @@
-name = 'Theme name'
+name = 'ontherocks'
 license = 'MIT'
-licenselink = 'https://github.com/owner/repo/LICENSE'
+licenselink = 'https://github.com/6r3g/hugo-ontherocks/LICENSE'
 description = 'Theme description'
 
 # The home page of the theme, where the source can be found
-homepage = 'https://github.com/owner/repo'
+homepage = 'https://github.com/6r3g/hugo-ontherocks'
 
 # If you have a running demo of the theme
-demosite = 'https://owner.github.io/repo'
-
-# Taxonomy terms
-tags = ['blog', 'company']
-features = ['some', 'awesome', 'features']
-
-# If the theme has multiple authors
-authors = [
-  {name = 'Name of author', homepage = 'Website of author'},
-  {name = 'Name of author', homepage = 'Website of author'}
-]
+#demosite = 'https://owner.github.io/repo'
 
 # If the theme has a single author
 [author]
-  name = 'Your name'
-  homepage = 'Your website'
+  name = '6r3g'
+  homepage = 'https://6r3g.github.io'
 
 # If porting an existing theme
 [original]
-  author = 'Name of original author'
-  homepage = 'Website of original author'
-  repo = 'https://github.com/owner/repo'
+  author = 'AngeloR'
+  homepage = 'https://xangelo.ca/'
+  repo = 'https://github.com/AngeloR/plain-hugo-theme'
