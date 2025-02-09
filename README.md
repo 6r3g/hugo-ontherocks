@@ -1,2 +1,7 @@
-# hugo-ontherocks
-Hugo theme
+# Theme Name
+
+## Features
+
+## Installation
+
+## Configuration
